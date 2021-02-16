@@ -1,5 +1,5 @@
 # wxZombileTool
-静默删除微信中的僵尸粉。/Silently delete the zombie powder in wechat.
+静默删除微信中的僵尸粉。/ Silently delete the zombie friend(s) and fucking man in wechat.
 
 # 有几点需要说明的
 wxpy基于Web版本的微信协议，必须早于2018年注册的微信才可以使用；市面上某些售卖的在线清除僵尸粉有些是iPad协议，所以不受此限制；iPad协议版本暂不开源。
